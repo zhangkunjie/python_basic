@@ -1,0 +1,17 @@
+status: 200
+vary: Accept-Encoding
+keep-alive: timeout=10
+server: nginx
+pragma: no-cache
+expires: Sun, 1 Jan 2006 01:00:00 GMT
+date: Thu, 06 Aug 2015 04:57:43 GMT
+content-type: application/json; charset=utf-8
+content-location: https://api.douban.com/v2/movie/25723905
+cache-control: must-revalidate, no-cache, private
+content-length: 2336
+connection: keep-alive
+-content-encoding: gzip
+x-dae-node: dis5
+-varied-accept-encoding: gzip, deflate
+
+{"rating":{"max":10,"average":"6.2","numRaters":4073,"min":0},"author":[{"name":"南雲聖一"}],"alt_title":"","image":"http:\/\/img3.douban.com\/view\/movie_poster_cover\/ipst\/public\/p2164984660.jpg","title":"金田一少年の事件簿 獄門塾殺人事件","mobile_link":"http:\/\/m.douban.com\/movie\/subject\/25723905\/","summary":"炎炎夏季，金田一（山田凉介 饰）和七濑美雪（川口春奈 饰）、佐木龙二（有冈大贵 饰）两名好友前往著名的狱门补习学校参加集中培训。当他们正聊天玩笑时，突然警铃声大作。校舍走廊内，名为茂吕井的学生手按在警铃上，惨遭毒害。经金田一缜密推理，确定这是一起有针对性和计划性的杀人事件。未过多久，他们重逢香港警员李白龙，并得知策划了九龙事件的真凶正是人称地狱傀儡师的高远遥一，一个自称犯罪艺术家的国际通缉犯。此前高远正展开一系列的艺术犯罪计划，而他则将下一个目标锁定在正准备前往马来西亚参加集训的金田一身上。神秘莫测的对手，异国他乡的较量……\n日本电视台开播六十周年纪念作品。","attrs":{"website":["www.ntv.co.jp\/kindaichi-gokumon\/"],"language":["日语"],"pubdate":["2014-01-04(日本)"],"title":["金田一少年の事件簿 獄門塾殺人事件"],"country":["日本"],"writer":["天樹征丸"],"director":["南雲聖一"],"cast":["山田凉介 Ryôsuke Yamada","川口春奈 Haruna Kawaguchi","有冈大贵 Daiki Arioka","吴尊 Chun Wu","尼坤 Nichkhun Buck Horvejkul","波瑠 Haru","栗原类 Louis Kurihara","三吉彩花 Ayaka Miyoshi","前田公辉 Gôki Maeda","笠智众 Chishû Ryû","ジニー","林柏宏 Bo-Hong Lin","笠原秀幸 Hideyuki Kasahara","绯田康人 Yasuhito Hida","成宫宽贵 Hiroki Narimiya","北村一辉 Kazuki Kitamura"],"episodes":["1"],"movie_duration":["114分钟"],"year":["2014"],"movie_type":["剧情","喜剧","悬疑","惊悚"]},"alt":"http:\/\/movie.douban.com\/movie\/25723905","id":"http:\/\/api.douban.com\/movie\/25723905","tags":[{"count":611,"name":"日剧SP"},{"count":521,"name":"山田涼介"},{"count":465,"name":"日本"},{"count":458,"name":"推理"},{"count":451,"name":"日剧"},{"count":298,"name":"2014"},{"count":265,"name":"成宫宽贵"},{"count":253,"name":"SP"}]}

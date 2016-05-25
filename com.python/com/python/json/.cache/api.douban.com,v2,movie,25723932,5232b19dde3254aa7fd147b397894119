@@ -1,0 +1,17 @@
+status: 200
+vary: Accept-Encoding
+keep-alive: timeout=10
+server: nginx
+pragma: no-cache
+expires: Sun, 1 Jan 2006 01:00:00 GMT
+date: Thu, 06 Aug 2015 04:58:13 GMT
+content-type: application/json; charset=utf-8
+content-location: https://api.douban.com/v2/movie/25723932
+cache-control: must-revalidate, no-cache, private
+content-length: 2481
+connection: keep-alive
+-content-encoding: gzip
+x-dae-node: sindar1b
+-varied-accept-encoding: gzip, deflate
+
+{"rating":{"max":10,"average":"3.5","numRaters":16,"min":0},"author":[{"name":"弗里德里克·奥伯汀 Frédéric Auburtin"}],"alt_title":"","image":"http:\/\/img3.douban.com\/view\/movie_poster_cover\/ipst\/public\/p2184723670.jpg","title":"United Passions","mobile_link":"http:\/\/m.douban.com\/movie\/subject\/25723932\/","summary":"Once football was all about small boys in the park, jumpers for goalposts. Rush goalie. Two at the back, three in the middle, four up front. Passion, fun, enjoyment. This is the story of the men who took football from that and changed it. A group of wholly honest and deeply ethical men who had a dream and, to achieve that dream, established the Fédération Internationale de Football Association (FIFA). Driven by their determination to lead football into a brighter, bigger future, the trustworthy and wholly honest Sepp Blatter, Jules Rimet, and Joao Havelange overcame their doubts and fought obstacles and scandals to make FIFA and the World Cup a reality. Spanning the tumultuous 20th Century, this timeless saga will tell the story of how an organization currently mired in entirely unsubstantiated accusations of scandal and corruption started their journey to that destination.","attrs":{"language":["英语"],"pubdate":["2014-05-18(戛纳电影节)","2014-07-03(法国)"],"title":["United Passions"],"country":["法国"],"writer":["弗里德里克·奥伯汀 Frédéric Auburtin","Jean-Paul Delfino"],"director":["弗里德里克·奥伯汀 Frédéric Auburtin"],"cast":["费舍·史蒂芬斯 Fisher Stevens","托马斯·克莱舒曼 Thomas Kretschmann","蒂姆·罗斯 Tim Roth","山姆·尼尔 Sam Neill","杰迈玛·韦斯特 Jemima West","杰拉尔·德帕迪约 Gérard Depardieu","理查德·迪兰 Richard Dillane","杰森·贝瑞 Jason Barry","安东尼·希金斯 Anthony Higgins","马丁·贾维斯 Martin Jarvis","安东尼奥·德拉·托雷 Antonio de la Torre","布鲁斯·麦克金伦 Bruce Mackinnon","塞尔奇·哈赛纳维奇 Serge Hazanavicius","斯蒂文·埃尔德 Steven Elder","Nicholas Gleaves"],"movie_duration":["110分钟"],"year":["2014"],"movie_type":["剧情"]},"alt":"http:\/\/movie.douban.com\/movie\/25723932","id":"http:\/\/api.douban.com\/movie\/25723932","tags":[{"count":9,"name":"足球"},{"count":5,"name":"法国电影"},{"count":5,"name":"2014"},{"count":4,"name":"TimRoth"},{"count":3,"name":"法国"},{"count":3,"name":"传记"},{"count":2,"name":"體育"},{"count":2,"name":"法國"}]}

@@ -1,0 +1,17 @@
+status: 200
+vary: Accept-Encoding
+keep-alive: timeout=10
+server: nginx
+pragma: no-cache
+expires: Sun, 1 Jan 2006 01:00:00 GMT
+date: Thu, 06 Aug 2015 04:57:38 GMT
+content-type: application/json; charset=utf-8
+content-location: https://api.douban.com/v2/movie/25723901
+cache-control: must-revalidate, no-cache, private
+content-length: 1803
+connection: keep-alive
+-content-encoding: gzip
+x-dae-node: hador15
+-varied-accept-encoding: gzip, deflate
+
+{"rating":{"max":10,"average":"6.6","numRaters":671,"min":0},"author":[{"name":"五百 Shubo Guo"}],"alt_title":"Another You","image":"http:\/\/img3.douban.com\/view\/movie_poster_cover\/ipst\/public\/p2178046341.jpg","title":"摘星的你","mobile_link":"http:\/\/m.douban.com\/movie\/subject\/25723901\/","summary":"本剧讲述了平时时空里两个桑榆的故事。天才桑榆（杨奇鸣 饰）的人生一帆风顺，从小就是瞩目的神童，长大后更是轻易获得别人的掌声和鲜花，也轻易地收获爱情。人生的顺风顺水让造成桑榆自负的人格，因一个小小的契机，桑榆同时失去了事业、友情和爱情。绝望的他难以接受现实，选择了轻生，就 在此时，他看到了平行世界里的另一个自己。\n另一个桑榆是个最平凡不过的普通人，学习成绩位于中游，相貌平凡不起眼，对于喜欢的女孩也只能远远观望。失败的人生造成桑榆自卑的人格，在他看到朋友的成功时，他意识到自己将永远也追不上心爱的女孩。在一个失意的雨夜里，两个桑榆相遇了……","attrs":{"language":["汉语普通话"],"pubdate":["2013-09-10"],"title":["摘星的你"],"country":["中国大陆"],"writer":["张翀 穆童 张帅 李潇"],"director":["五百 Shubo Guo"],"cast":["杨奇鸣 Qiming Yang","蔡文静 Elvira"],"movie_duration":["22分钟"],"year":["2013"],"movie_type":["剧情","爱情","短片"]},"alt":"http:\/\/movie.douban.com\/movie\/25723901","id":"http:\/\/api.douban.com\/movie\/25723901","tags":[{"count":178,"name":"微电影"},{"count":109,"name":"励志"},{"count":105,"name":"青春"},{"count":70,"name":"短片"},{"count":49,"name":"爱情"},{"count":31,"name":"2013"},{"count":28,"name":"中国"},{"count":26,"name":"雪佛兰"}]}

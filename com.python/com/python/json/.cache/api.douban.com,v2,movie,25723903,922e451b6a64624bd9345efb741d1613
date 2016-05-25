@@ -1,0 +1,17 @@
+status: 200
+vary: Accept-Encoding
+keep-alive: timeout=10
+server: nginx
+pragma: no-cache
+expires: Sun, 1 Jan 2006 01:00:00 GMT
+date: Thu, 06 Aug 2015 04:57:41 GMT
+content-type: application/json; charset=utf-8
+content-location: https://api.douban.com/v2/movie/25723903
+cache-control: must-revalidate, no-cache, private
+content-length: 2773
+connection: keep-alive
+-content-encoding: gzip
+x-dae-node: hador2
+-varied-accept-encoding: gzip, deflate
+
+{"rating":{"max":10,"average":"7.7","numRaters":615,"min":0},"author":[{"name":"Jeong Yun Jeong（정윤정）"},{"name":"Gang Gung（강궁）"}],"alt_title":"我们结婚了 第五季 \/ We Got Married Season 5","image":"http:\/\/img3.douban.com\/view\/movie_poster_cover\/ipst\/public\/p2163503811.jpg","title":"우리 결혼했어요 시즌5","mobile_link":"http:\/\/m.douban.com\/movie\/subject\/25723903\/","summary":"号外号外 ~\n我结制作组官方脸书10.24宣布《世界版 第二季》开始公开甄选\nhttp:\/\/movie.douban.com\/subject\/25753345\/\n*******************************************************************\n上季回顾\nhttp:\/\/movie.douban.com\/subject\/25716584\/\n追剧\nhttp:\/\/v.youku.com\/v_show\/id_XNjA5OTE2MzMy.html\n*******************************************************************\n由於更換製作組PD，除了保留在第四季年資最小的初戀夫婦外，珍惜夫婦以及臉贊夫婦都同時在2013年9月7日下車。\n首先傳出上車的夫婦是鄭俊英及鄭柔美(俊美夫婦)\n9月5日正式確認，Yoonhan潤翰和李素妍亦會組成夫婦\n第五季首播日2013年9月14日\n俊美夫婦\n此夫婦稱 呼是由華語地區粉絲所取，由二人的中文譯名各取一字，而兩人亦是俊男美女，所以命為「俊美夫婦」。\n鄭俊英是個模特兒、rocker歌手，但也有小可愛的一面。節目中展示很多四次元的一面。\n古典夫婦\n由於這對夫婦男方是鋼琴家，而女方亦長得很氣質的古典美，所以被命為古典夫婦。雖然有中國地區朋友替他們以讀音命名為「汗顏夫婦」，但因為不太好聽，而且也沒有太顯著的意義，所以這名字在非華語作母語的地區不太受歡迎。\n二人雖然是年上年下的夫婦，但由於女方只大男方一年，相信彼此間的代溝也不大。\n潤翰是鋼琴家、作曲家，歌手，如此有才的老公，很多飯也希望他能在節目上浪漫地展示一下琴技。","attrs":{"website":["www.imbc.com\/broad\/tv\/ent\/wedding\/"],"language":["韩语"],"pubdate":["2013-09-14(韩国)"],"title":["우리 결혼했어요 시즌5"],"country":["韩国"],"director":["Jeong Yun Jeong（정윤정）","Gang Gung（강궁）"],"cast":["郑俊英","郑柔美","全润翰","李素妍","李泰民","孙娜恩 Na-Eun Son"],"movie_duration":["65"],"year":["2013"],"movie_type":["音乐"]},"alt":"http:\/\/movie.douban.com\/movie\/25723903","id":"http:\/\/api.douban.com\/movie\/25723903","tags":[{"count":120,"name":"韩国综艺"},{"count":108,"name":"综艺"},{"count":75,"name":"韩国"},{"count":50,"name":"真人秀"},{"count":36,"name":"郑俊英"},{"count":29,"name":"郑柔美"},{"count":24,"name":"2013"},{"count":20,"name":"爱情"}]}

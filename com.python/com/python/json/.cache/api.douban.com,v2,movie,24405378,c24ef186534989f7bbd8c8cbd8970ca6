@@ -1,0 +1,17 @@
+status: 200
+content-type: application/json; charset=utf-8
+content-length: 2874
+cache-control: must-revalidate, no-cache, private
+connection: keep-alive
+expires: Sun, 1 Jan 2006 01:00:00 GMT
+-content-encoding: gzip
+vary: Accept-Encoding
+pragma: no-cache
+server: nginx
+date: Thu, 06 Aug 2015 05:00:09 GMT
+x-dae-node: sindar2b
+keep-alive: timeout=10
+content-location: https://api.douban.com/v2/movie/24405378
+-varied-accept-encoding: gzip, deflate
+
+{"rating":{"max":10,"average":"8.5","numRaters":202863,"min":0},"author":[{"name":"马修·沃恩 Matthew Vaughn"}],"alt_title":"王牌特工：特工学院 \/ 皇家特工：间谍密令(港)","image":"http:\/\/img4.douban.com\/view\/movie_poster_cover\/ipst\/public\/p2231932406.jpg","title":"Kingsman: The Secret Service","mobile_link":"http:\/\/m.douban.com\/movie\/subject\/24405378\/","summary":"哈里（科林·费斯 Colin Firth 饰）是英国秘密特工组织金士曼中的一员，某次行动中，他的战友不幸牺牲，哈里将一枚徽章和一个电话号码交给了战友年幼的小儿子艾格西（亚历克斯·尼科洛夫 Alex Nikolov 饰），叮嘱他将来如果遇到了什么麻烦可以拨打这个号码，然而，这样的机会只能使用一次。\n一晃眼十七年过去，破碎的家庭让艾格西（塔伦·埃格顿 Taron Egerton 饰）成长为了一个整日无所事事的小混混，某日，因为违反交通规则而遭到逮捕的艾格西使用了手中珍贵的号码，赶来的哈里在艾格西玩世不恭的外表之下发现了他善良的本质和极高的天赋，于是，哈里决定将艾格西培养成为新一代金士曼，他们需要共同面对的是强大而又邪恶的亿万富翁瓦伦丁（塞缪尔·杰克逊 Samuel L. Jackson 饰）。","attrs":{"website":["www.kingsmanmovie.com"],"language":["英语","阿拉伯语","瑞典语"],"pubdate":["2014-12-13(BNAT电影节)","2015-01-29(英国)","2015-03-27(中国大陆)"],"title":["Kingsman: The Secret Service"],"country":["英国","美国"],"writer":["简·古德曼 Jane Goldman","马修·沃恩 Matthew Vaughn","马克·米勒 Mark Millar","戴夫·吉布森 Dave Gibbons"],"director":["马修·沃恩 Matthew Vaughn"],"cast":["塔伦·埃格顿 Taron Egerton","柯林·菲尔斯 Colin Firth","塞缪尔·杰克逊 Samuel L. Jackson","迈克尔·凯恩 Michael Caine","马克·斯特朗 Mark Strong","Sophie Cookson","索菲亚·波多拉 Sofia Boutella","马克·哈米尔 Mark Hamill","杰克·达文波特 Jack Davenport","Samantha Womack","Hanna Alström","Jonno Davies","Alex Nikolov","维利贝·托皮奇 Velibor Topic","杰夫·贝尔 Geoff Bell","Adrian Quinton","Jordan Long","Theo Barklem-Biggs","摩根·華金斯 Morgan Watkins","拉尔夫·尹爱森 Ralph Ineson","Edward Holcroft","尼古拉斯·班克斯 Nicholas Banks"],"movie_duration":["125分钟(中国大陆)","129分钟(美国)"],"year":["2014"],"movie_type":["喜剧","动作","犯罪","冒险"]},"alt":"http:\/\/movie.douban.com\/movie\/24405378","id":"http:\/\/api.douban.com\/movie\/24405378","tags":[{"count":28708,"name":"英国"},{"count":22732,"name":"特工"},{"count":21288,"name":"动作"},{"count":14047,"name":"喜剧"},{"count":10048,"name":"黑色幽默"},{"count":8921,"name":"2015"},{"count":4706,"name":"犯罪"},{"count":4051,"name":"搞笑"}]}

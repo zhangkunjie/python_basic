@@ -1,0 +1,20 @@
+#coding=utf-8
+"""
+标准变量主要有以下几个
+Numbers（数字）
+String（字符串）
+List（列表）
+Tuple（元组）
+Dictionary（字典）
+"""
+"""
+Numbers:
+    int（有符号整型）
+    long（长整型[也可以代表八进制和十六进制]）
+    float（浮点型）
+    complex（复数） 
+"""
+x=int(12.55656)
+print (x)
+y=float(12.34)
+print(y)

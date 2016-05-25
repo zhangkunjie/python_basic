@@ -1,0 +1,17 @@
+status: 200
+vary: Accept-Encoding
+keep-alive: timeout=10
+server: nginx
+pragma: no-cache
+expires: Sun, 1 Jan 2006 01:00:00 GMT
+date: Thu, 06 Aug 2015 04:57:49 GMT
+content-type: application/json; charset=utf-8
+content-location: https://api.douban.com/v2/movie/25723911
+cache-control: must-revalidate, no-cache, private
+content-length: 1799
+connection: keep-alive
+-content-encoding: gzip
+x-dae-node: sindar13d
+-varied-accept-encoding: gzip, deflate
+
+{"rating":{"max":10,"average":"6.4","numRaters":2979,"min":0},"author":[{"name":"李素妍"}],"alt_title":"总理和我 \/ 总理在恋爱","image":"http:\/\/img4.douban.com\/view\/movie_poster_cover\/ipst\/public\/p2161007719.jpg","title":"총리와 나","mobile_link":"http:\/\/m.douban.com\/movie\/subject\/25723911\/","summary":"总理与我讲述的是新人热血记者南多贞与新上任国务总理权律之间由误会生出绯闻到真的结婚的故事.李凡秀饰演失去了妻子领着3个孩子生活的权律,虽然社会名望很高但却是个0分爸爸,允儿饰演虽然一开始不爱权律但为了权律总理的位置而与他结婚,成为了这个家新妈妈的南多贞.故事就在新妈妈产生的过程中展开.制作组表示\"请期待李凡秀-允儿CP饰演的今冬奇迹般的爱情故事,这是部可以和家人们一起看的温暖的童话般的浪漫喜剧\".","attrs":{"website":["www.kbs.co.kr\/drama\/primeminister\/"],"language":["韩语"],"pubdate":["2013-12-09"],"title":["총리와 나"],"country":["韩国"],"writer":["金恩希","尹恩庆"],"director":["李素妍"],"cast":["李凡秀 Beom-su Lee","林允儿 Yoona","蔡贞安 Jeong-an Chae","李敏豪 Min-ho Lee","尹施允 Shi-Yoon Yoon","柳镇 Jin Ryu","李汉威","尹海英","李英范","崔德文","全敏书","李道贤"],"episodes":["20"],"movie_duration":["60分钟"],"year":["2013"],"movie_type":["剧情","爱情"]},"alt":"http:\/\/movie.douban.com\/movie\/25723911","id":"http:\/\/api.douban.com\/movie\/25723911","tags":[{"count":801,"name":"韩剧"},{"count":440,"name":"林允儿"},{"count":256,"name":"李凡秀"},{"count":222,"name":"爱情"},{"count":178,"name":"喜剧"},{"count":161,"name":"韩国"},{"count":161,"name":"2013"},{"count":117,"name":"看过的电视剧"}]}

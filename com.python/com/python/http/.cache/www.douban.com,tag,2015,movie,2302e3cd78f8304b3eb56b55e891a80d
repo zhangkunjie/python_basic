@@ -1,0 +1,827 @@
+status: 200
+server: nginx
+cache-control: must-revalidate, no-cache, private
+set-cookie: bid="1nQent28iXk"; path=/; domain=.douban.com; expires=Thu, 11-Aug-2016 12:32:09 GMT
+content-length: 23959
+date: Wed, 12 Aug 2015 12:32:12 GMT
+x-dae-node: sindar1c
+-content-encoding: gzip
+expires: Sun, 1 Jan 2006 01:00:00 GMT
+connection: keep-alive
+vary: Accept-Encoding
+x-douban-newbid: 1nQent28iXk
+pragma: no-cache
+content-type: text/html; charset=utf-8
+p3p: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+keep-alive: timeout=10
+x-douban-mobileapp: 0
+x-douban-splittest: 
+content-location: http://www.douban.com/tag/2015/movie
+-varied-accept-encoding: gzip, deflate
+
+<!DOCTYPE html>
+<html lang="zh-CN" class="ua-windows ua-ff39">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="renderer" content="webkit">
+
+    <title>
+  关于2015的影视 (豆瓣)
+</title>
+    
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+    
+  
+  <meta name="keywords" content="2015,2014,计划,自我管理">
+  <meta name="description" content="关于2015的影视,关于2014的影视,关于计划的影视,关于自我管理的影视">
+
+    <script >var _head_start = new Date();</script>
+    <script src="http://img3.douban.com/f/shire/72ced6df41d4d158420cebdd254f9562942464e3/js/jquery.min.js"></script>
+    <script src="http://img3.douban.com/f/shire/e4d301029a110cc88722e153847a9588953e418f/js/douban.js"></script>
+    <link href="http://img3.douban.com/f/shire/87ccc3cbd9772399ce017a1543d6abd90459897d/css/douban.css" rel="stylesheet" type="text/css">
+    <style type="text/css">
+    
+        
+    </style>
+    
+  <link type="text/css" href="http://img3.douban.com/f/sns/a296abd57c901aa4890f8ca96360c5733508f474/css/sns/statuses/base.css" rel="stylesheet"/>
+  <link type="text/css" href="http://img3.douban.com/f/whitehole/6eb7d6d58eaaccacc20927f7ba522fdb8da61fbc/css/topic.css" rel="stylesheet"/>
+  <script type="text/javascript" src="http://img3.douban.com/f/shire/38311a6c074fc29d6900856bf39a433061b98d6e/js/do.js" data-cfg-autoload="false"></script>
+
+    <link rel="stylesheet" href="http://img3.douban.com/misc/mixed_static/5db4af8bf3f6eaec.css">
+    <script></script>
+
+    <link rel="shortcut icon" href="http://img3.douban.com/favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+  
+    <script type="text/javascript">var _body_start = new Date();</script>
+    
+   
+
+
+
+
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+
+
+
+
+
+
+<div class="top-nav-info">
+      
+      <a href="http://www.douban.com/accounts/login?source=main" class="nav-login" rel="nofollow">登录</a>
+      <a href="http://www.douban.com/accounts/register?source=main" class="nav-register" rel="nofollow">注册</a>
+</div>
+
+
+
+    <div class="top-nav-doubanapp">
+        
+        <a href="http://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+        <div id="top-nav-appintro" class="more-items">
+            <p class="slogan">汇集一亿人的生活趣味</p>
+            <p class="qrcode">
+                扫码直接下载
+            </p>
+            <div class="download">
+                <a href="http://www.douban.com/doubanapp/redirect?channel=top-nav&amp;direct_dl=1&amp;download=iOS">Download on the App Store</a>
+                <a href="http://www.douban.com/doubanapp/redirect?channel=top-nav&amp;direct_dl=1&amp;download=Android" class="download-android">Download Android</a>
+            </div>
+        </div>
+        <div id="doubanapp-tip">
+            <a href="http://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">新版发布，可以刷广播啦</a>
+            <a href="javascript: void 0;" class="tip-close">×</a>
+        </div>
+    </div>
+
+    <div class="global-nav-items">
+      <ul>
+          
+            
+            <li class="on">
+            <a href="http://www.douban.com/" data-moreurl-dict="{&#34;from&#34;:&#34;top-nav-click-main&#34;,&#34;uid&#34;:&#34;0&#34;}">豆瓣</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://book.douban.com/" target="_blank" data-moreurl-dict="{&#34;from&#34;:&#34;top-nav-click-book&#34;,&#34;uid&#34;:&#34;0&#34;}">读书</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://movie.douban.com/" target="_blank" data-moreurl-dict="{&#34;from&#34;:&#34;top-nav-click-movie&#34;,&#34;uid&#34;:&#34;0&#34;}">电影</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://music.douban.com/" target="_blank" data-moreurl-dict="{&#34;from&#34;:&#34;top-nav-click-music&#34;,&#34;uid&#34;:&#34;0&#34;}">音乐</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://www.douban.com/location/" target="_blank" data-moreurl-dict="{&#34;from&#34;:&#34;top-nav-click-location&#34;,&#34;uid&#34;:&#34;0&#34;}">同城</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://www.douban.com/group/" target="_blank" data-moreurl-dict="{&#34;from&#34;:&#34;top-nav-click-group&#34;,&#34;uid&#34;:&#34;0&#34;}">小组</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://read.douban.com/?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&#34;from&#34;:&#34;top-nav-click-read&#34;,&#34;uid&#34;:&#34;0&#34;}">阅读</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://douban.fm/" target="_blank" data-moreurl-dict="{&#34;from&#34;:&#34;top-nav-click-fm&#34;,&#34;uid&#34;:&#34;0&#34;}">FM</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://dongxi.douban.com/?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&#34;from&#34;:&#34;top-nav-click-commodity&#34;,&#34;uid&#34;:&#34;0&#34;}">东西</a>
+            </li>
+          
+            
+            <li>
+            <a href="http://market.douban.com/" target="_blank" data-moreurl-dict="{&#34;from&#34;:&#34;top-nav-click-market&#34;,&#34;uid&#34;:&#34;0&#34;}">市集</a>
+            </li>
+          
+            <li>
+              <a href="#more" class="bn-more"><span>更多</span></a>
+              <div class="more-items">
+                <table cellpadding="0" cellspacing="0">
+                    
+                    <tr><td><a href="http://moment.douban.com" target="_blank" data-moreurl-dict="{&#34;from&#34;:&#34;top-nav-click-moment&#34;,&#34;uid&#34;:&#34;0&#34;}">一刻</a></td></tr>
+                    
+                    <tr><td><a href="http://ypy.douban.com" target="_blank" data-moreurl-dict="{&#34;from&#34;:&#34;top-nav-click-ypy&#34;,&#34;uid&#34;:&#34;0&#34;}">一拍一</a></td></tr>
+                    
+                    <tr><td><a href="http://9.douban.com" target="_blank" data-moreurl-dict="{&#34;from&#34;:&#34;top-nav-click-9&#34;,&#34;uid&#34;:&#34;0&#34;}">九点</a></td></tr>
+                </table>
+              </div>
+            </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+
+   
+    
+
+
+
+
+
+
+
+<div id="db-nav-sns" class="nav">
+  <div class="nav-wrap">
+    <div class="nav-primary">
+      <div class="nav-search">
+        <form action="http://www.douban.com/search" method="get">
+          <fieldset>
+            <legend>搜索：</legend>
+            <label for="inp-query">搜索你感兴趣的内容和人...</label>
+            <div class="inp">
+              <input type="hidden" name="source" value="suggest">
+              <input id="inp-query" name="q" size="22" title="搜索搜索你感兴趣的内容和人..." maxlength="60" autocomplete="off"  value="">
+            </div>
+            <div class="inp-btn"><input type="submit" value="搜索"></div>
+          </fieldset>
+        </form>
+      </div>
+  
+      <div class="nav-logo">
+        <a href="http://www.douban.com">豆瓣社区</a>
+      </div>
+  
+      <div class="nav-items">
+        <ul>
+          <li><a href="http://www.douban.com/">首页</a></li>
+          <li><a href="http://www.douban.com/explore/">浏览发现</a></li>
+          <li>
+              <a href="http://www.douban.com/app/">移动应用</a>
+              <img src="http://img3.douban.com/f/shire/e49eca1517424a941871a2667a8957fd6c72d632/pics/new_menu.gif" alt="new" />
+              
+          </li>
+          <li>
+            <a href="http://www.douban.com/game/explore?dcs=sns-nav&amp;dcm=douban">游戏</a>
+          </li>
+          <li><a href="http://www.douban.com/online/">线上活动</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+    <div id="wrapper">
+        
+
+        
+<div id="content">
+    
+    <h1>关于2015的影视 (豆瓣)</h1>
+
+    <div class="grid-16-8 clearfix">
+        
+        
+        <div class="article">
+               
+  
+
+    <div class="mod movie-list">
+          
+  
+  
+  
+  <dl>
+    <dt>
+      <a href="http://movie.douban.com/subject/26277313/?from=tag_all" target="_blank">
+        <img src="http://img3.douban.com/view/movie_poster_cover/lpst/public/p2255028780.jpg" />
+      </a>
+    </dt>
+    <dd>
+      <a href="http://movie.douban.com/subject/26277313/?from=tag_all" class="title" target="_blank">西游记之大圣归来</a>
+        
+      
+      <div class="desc">
+        中国大陆 / 喜剧 / 动画 / 奇幻 / 2015 / 田晓鹏 / 张磊 / 林子杰 / 吴文伦
+      </div>
+    
+        <div class="rating">
+          <span class="allstar45"></span>
+          <span class="rating_nums">8.5</span>
+        </div>
+    </dd>
+  </dl>
+
+
+
+          
+  
+  
+  
+  <dl>
+    <dt>
+      <a href="http://movie.douban.com/subject/3592854/?from=tag_all" target="_blank">
+        <img src="http://img3.douban.com/view/movie_poster_cover/lpst/public/p2236181653.jpg" />
+      </a>
+    </dt>
+    <dd>
+      <a href="http://movie.douban.com/subject/3592854/?from=tag_all" class="title" target="_blank">疯狂的麦克斯4：狂暴之路 Mad Max: Fury Road</a>
+        
+      
+      <div class="desc">
+        澳大利亚 / 动作 / 科幻 / 冒险 / 2015 / 乔治·米勒 / 汤姆·哈迪 / 查理兹·塞隆 / 尼古拉斯·霍尔特
+      </div>
+    
+        <div class="rating">
+          <span class="allstar45"></span>
+          <span class="rating_nums">8.6</span>
+        </div>
+    </dd>
+  </dl>
+
+
+
+          
+  
+  
+  
+  <dl>
+    <dt>
+      <a href="http://movie.douban.com/subject/10533913/?from=tag_all" target="_blank">
+        <img src="http://img4.douban.com/view/movie_poster_cover/lpst/public/p2231021196.jpg" />
+      </a>
+    </dt>
+    <dd>
+      <a href="http://movie.douban.com/subject/10533913/?from=tag_all" class="title" target="_blank">头脑特工队 Inside Out</a>
+        
+      
+      <div class="desc">
+        美国 / 喜剧 / 动画 / 冒险 / 2015 / 彼特·道格特 / 艾米·波勒 / 菲利丝·史密斯 / 理查德·坎德
+      </div>
+    
+        <div class="rating">
+          <span class="allstar45"></span>
+          <span class="rating_nums">9.0</span>
+        </div>
+    </dd>
+  </dl>
+
+
+
+          
+  
+  
+  
+  <dl>
+    <dt>
+      <a href="http://movie.douban.com/subject/25814707/?from=tag_all" target="_blank">
+        <img src="http://img4.douban.com/view/movie_poster_cover/lpst/public/p2215147728.jpg" />
+      </a>
+    </dt>
+    <dd>
+      <a href="http://movie.douban.com/subject/25814707/?from=tag_all" class="title" target="_blank">小森林 冬春篇 リトル・フォレスト 冬・春</a>
+        
+      
+      <div class="desc">
+        日本 / 剧情 / 2015 / 森淳一 / 桥本爱 / 三浦贵大 / 松冈茉优
+      </div>
+    
+        <div class="rating">
+          <span class="allstar45"></span>
+          <span class="rating_nums">8.9</span>
+        </div>
+    </dd>
+  </dl>
+
+
+
+          
+  
+  
+  
+  <dl>
+    <dt>
+      <a href="http://movie.douban.com/subject/10440138/?from=tag_all" target="_blank">
+        <img src="http://img3.douban.com/view/movie_poster_cover/lpst/public/p2246217861.jpg" />
+      </a>
+    </dt>
+    <dd>
+      <a href="http://movie.douban.com/subject/10440138/?from=tag_all" class="title" target="_blank">侏罗纪世界 Jurassic World</a>
+        
+      
+      <div class="desc">
+        美国 / 动作 / 科幻 / 冒险 / 2015 / 科林·特雷沃罗 / 克里斯·普拉特 / 布莱丝·达拉斯·霍华德 / 文森特·多诺费奥
+      </div>
+    
+        <div class="rating">
+          <span class="allstar40"></span>
+          <span class="rating_nums">7.8</span>
+        </div>
+    </dd>
+  </dl>
+
+
+
+          
+  
+  
+  
+  <dl>
+    <dt>
+      <a href="http://movie.douban.com/subject/25814705/?from=tag_all" target="_blank">
+        <img src="http://img3.douban.com/view/movie_poster_cover/lpst/public/p2221319641.jpg" />
+      </a>
+    </dt>
+    <dd>
+      <a href="http://movie.douban.com/subject/25814705/?from=tag_all" class="title" target="_blank">小森林 夏秋篇 リトル・フォレスト 夏・秋</a>
+        
+      
+      <div class="desc">
+        日本 / 剧情 / 2014 / 森淳一 / 桥本爱 / 三浦贵大 / 松冈茉优
+      </div>
+    
+        <div class="rating">
+          <span class="allstar45"></span>
+          <span class="rating_nums">8.9</span>
+        </div>
+    </dd>
+  </dl>
+
+
+
+          
+  
+  
+  
+  <dl>
+    <dt>
+      <a href="http://movie.douban.com/subject/6874403/?from=tag_all" target="_blank">
+        <img src="http://img3.douban.com/view/movie_poster_cover/lpst/public/p2250287733.jpg" />
+      </a>
+    </dt>
+    <dd>
+      <a href="http://movie.douban.com/subject/6874403/?from=tag_all" class="title" target="_blank">再次出发之纽约遇见你 Begin Again</a>
+        
+      
+      <div class="desc">
+        美国 / 喜剧 / 爱情 / 音乐 / 2013 / 约翰·卡尼 / 凯拉·奈特莉 / 马克·鲁弗洛 / 詹姆斯·柯登
+      </div>
+    
+        <div class="rating">
+          <span class="allstar45"></span>
+          <span class="rating_nums">8.5</span>
+        </div>
+    </dd>
+  </dl>
+
+
+
+          
+  
+  
+  
+  <dl>
+    <dt>
+      <a href="http://movie.douban.com/subject/24405378/?from=tag_all" target="_blank">
+        <img src="http://img4.douban.com/view/movie_poster_cover/lpst/public/p2231932406.jpg" />
+      </a>
+    </dt>
+    <dd>
+      <a href="http://movie.douban.com/subject/24405378/?from=tag_all" class="title" target="_blank">王牌特工：特工学院 Kingsman: The Secret Service</a>
+        
+      
+      <div class="desc">
+        英国 / 喜剧 / 动作 / 犯罪 / 冒险 / 2014 / 马修·沃恩 / 塔伦·埃格顿 / 科林·费尔斯 / 塞缪尔·杰克逊
+      </div>
+    
+        <div class="rating">
+          <span class="allstar45"></span>
+          <span class="rating_nums">8.5</span>
+        </div>
+    </dd>
+  </dl>
+
+
+
+          
+  
+  
+  
+  <dl>
+    <dt>
+      <a href="http://movie.douban.com/subject/24397586/?from=tag_all" target="_blank">
+        <img src="http://img3.douban.com/view/movie_poster_cover/lpst/public/p2249261202.jpg" />
+      </a>
+    </dt>
+    <dd>
+      <a href="http://movie.douban.com/subject/24397586/?from=tag_all" class="title" target="_blank">小羊肖恩 Shaun the Sheep Movie</a>
+        
+      
+      <div class="desc">
+        英国 / 喜剧 / 动画 / 冒险 / 2015 / 马克·伯顿 / 贾斯汀·弗莱彻 / 约翰·斯帕克斯 / 欧米德·吉亚李利
+      </div>
+    
+        <div class="rating">
+          <span class="allstar45"></span>
+          <span class="rating_nums">8.5</span>
+        </div>
+    </dd>
+  </dl>
+
+
+
+          
+  
+  
+  
+  <dl>
+    <dt>
+      <a href="http://movie.douban.com/subject/25723907/?from=tag_all" target="_blank">
+        <img src="http://img4.douban.com/view/movie_poster_cover/lpst/public/p2257944916.jpg" />
+      </a>
+    </dt>
+    <dd>
+      <a href="http://movie.douban.com/subject/25723907/?from=tag_all" class="title" target="_blank">捉妖记</a>
+        
+      
+      <div class="desc">
+        中国大陆 / 喜剧 / 奇幻 / 古装 / 2015 / 许诚毅 / 白百何 / 井柏然 / 姜武
+      </div>
+    
+        <div class="rating">
+          <span class="allstar40"></span>
+          <span class="rating_nums">7.2</span>
+        </div>
+    </dd>
+  </dl>
+
+
+
+          
+  
+  
+  
+  <dl>
+    <dt>
+      <a href="http://movie.douban.com/subject/25769362/?from=tag_all" target="_blank">
+        <img src="http://img3.douban.com/view/movie_poster_cover/lpst/public/p2244958975.jpg" />
+      </a>
+    </dt>
+    <dd>
+      <a href="http://movie.douban.com/subject/25769362/?from=tag_all" class="title" target="_blank">哆啦A梦：伴我同行 STAND BY ME ドラえもん</a>
+        
+      
+      <div class="desc">
+        日本 / 剧情 / 动画 / 2014 / 八木龙一 / 水田山葵 / 大原惠美 / 嘉数由美
+      </div>
+    
+        <div class="rating">
+          <span class="allstar40"></span>
+          <span class="rating_nums">8.0</span>
+        </div>
+    </dd>
+  </dl>
+
+
+
+          
+  
+  
+  
+  <dl>
+    <dt>
+      <a href="http://movie.douban.com/subject/25761178/?from=tag_all" target="_blank">
+        <img src="http://img4.douban.com/view/movie_poster_cover/lpst/public/p2205471169.jpg" />
+      </a>
+    </dt>
+    <dd>
+      <a href="http://movie.douban.com/subject/25761178/?from=tag_all" class="title" target="_blank">百元之恋 百円の恋</a>
+        
+      
+      <div class="desc">
+        日本 / 剧情 / 喜剧 / 运动 / 2014 / 武正晴 / 安藤樱 / 新井浩文 / 稲川実代子
+      </div>
+    
+        <div class="rating">
+          <span class="allstar45"></span>
+          <span class="rating_nums">8.3</span>
+        </div>
+    </dd>
+  </dl>
+
+
+
+          
+  
+  
+  
+  <dl>
+    <dt>
+      <a href="http://movie.douban.com/subject/25826612/?from=tag_all" target="_blank">
+        <img src="http://img3.douban.com/view/movie_poster_cover/lpst/public/p2230256732.jpg" />
+      </a>
+    </dt>
+    <dd>
+      <a href="http://movie.douban.com/subject/25826612/?from=tag_all" class="title" target="_blank">权力的游戏 第五季 Game of Thrones Season 5</a>
+        
+      
+      <div class="desc">
+        美国 / 剧情 / 奇幻 / 冒险 / 2015 / Michael Slovis / 艾米莉亚·克拉克 / 彼特·丁克拉奇 / 基特·哈灵顿
+      </div>
+    
+        <div class="rating">
+          <span class="allstar45"></span>
+          <span class="rating_nums">9.0</span>
+        </div>
+    </dd>
+  </dl>
+
+
+
+          
+  
+  
+  
+  <dl>
+    <dt>
+      <a href="http://movie.douban.com/subject/23011215/?from=tag_all" target="_blank">
+        <img src="http://img4.douban.com/view/movie_poster_cover/lpst/public/p2247777008.jpg" />
+      </a>
+    </dt>
+    <dd>
+      <a href="http://movie.douban.com/subject/23011215/?from=tag_all" class="title" target="_blank">超感猎杀 第一季 Sense8 Season 1</a>
+        
+      
+      <div class="desc">
+        美国 / 剧情 / 科幻 / 2015 / 安迪·沃卓斯基 / 米格尔·安赫尔·西尔维斯特 / 杰米·克莱顿 / 布莱恩·J·史密斯
+      </div>
+    
+        <div class="rating">
+          <span class="allstar45"></span>
+          <span class="rating_nums">8.7</span>
+        </div>
+    </dd>
+  </dl>
+
+
+
+          
+  
+  
+  
+  <dl>
+    <dt>
+      <a href="http://movie.douban.com/subject/21318488/?from=tag_all" target="_blank">
+        <img src="http://img3.douban.com/view/movie_poster_cover/lpst/public/p2221768894.jpg" />
+      </a>
+    </dt>
+    <dd>
+      <a href="http://movie.douban.com/subject/21318488/?from=tag_all" class="title" target="_blank">消失的爱人 Gone Girl</a>
+        
+      
+      <div class="desc">
+        美国 / 剧情 / 犯罪 / 悬疑 / 惊悚 / 2014 / 大卫·芬奇 / 本·阿弗莱克 / 裴淳华 / 尼尔·帕特里克·哈里斯
+      </div>
+    
+        <div class="rating">
+          <span class="allstar45"></span>
+          <span class="rating_nums">8.7</span>
+        </div>
+    </dd>
+  </dl>
+
+
+
+    </div>
+
+    
+    
+    
+
+    
+        <div class="paginator">
+        <span class="prev">
+            &lt;前页
+        </span>
+        
+        
+
+                <span class="thispage" data-total-page="9223372036854775807">1</span>
+                
+            <a href="?start=15" >2</a>
+        
+                
+            <a href="?start=30" >3</a>
+        
+                
+            <a href="?start=45" >4</a>
+        
+                
+            <a href="?start=60" >5</a>
+        
+                
+            <a href="?start=75" >6</a>
+        
+                
+            <a href="?start=90" >7</a>
+        
+                
+            <a href="?start=105" >8</a>
+        
+                
+            <a href="?start=120" >9</a>
+        
+            <span class="break">...</span>
+        <span class="next">
+            <link rel="next" href="?start=15"/>
+            <a href="?start=15" >后页&gt;</a>
+        </span>
+
+        </div>
+
+
+
+        </div>
+        <div class="aside">
+                
+  <p class="pl2">&gt;&nbsp;<a href="http://www.douban.com/tag/2015/">返回 2015 标签</a></p>
+
+        </div>
+        <div class="extra">
+            
+        </div>
+    </div>
+</div>
+
+        
+<div id="footer">
+    
+
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2015 douban.com, all rights reserved
+</span>
+
+<a href="http://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="http://www.douban.com/about">关于豆瓣</a>
+    · <a href="http://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="http://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="http://www.douban.com/about?policy=disclaimer">免责声明</a>
+    
+    · <a href="http://www.douban.com/help/">帮助中心</a>
+    · <a href="http://developers.douban.com/" target="_blank">开发者</a>
+    · <a href="http://www.douban.com/doubanapp/">移动应用</a>
+    · <a href="http://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+
+</div>
+
+    </div>
+    <script type="text/javascript" src="http://img3.douban.com/misc/mixed_static/73912b760768cf0b.js"></script>
+    
+    
+    
+
+
+
+
+
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript';
+    g.defer=true;
+    g.async=true;
+    g.src=p+'://s.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+})();
+</script>
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-7019765-1']);
+_gaq.push(['_setCampNameKey', 'dcn']);
+_gaq.push(['_setCampSourceKey', 'dcs']);
+_gaq.push(['_setCampMediumKey', 'dcm']);
+_gaq.push(['_setCampTermKey', 'dct']);
+_gaq.push(['_setCampContentKey', 'dcc']);
+_gaq.push(['_addOrganic', 'baidu', 'word']);
+_gaq.push(['_addOrganic', 'soso', 'w']);
+_gaq.push(['_addOrganic', '3721', 'name']);
+_gaq.push(['_addOrganic', 'youdao', 'q']);
+_gaq.push(['_addOrganic', 'so.360.cn', 'q']);
+_gaq.push(['_addOrganic', 'vnet', 'kw']);
+_gaq.push(['_addOrganic', 'sogou', 'query']);
+_gaq.push(['_addIgnoredOrganic', '豆瓣']);
+_gaq.push(['_addIgnoredOrganic', 'douban']);
+_gaq.push(['_addIgnoredOrganic', '豆瓣网']);
+_gaq.push(['_addIgnoredOrganic', 'www.douban.com']);
+_gaq.push(['_setDomainName', '.douban.com']);
+
+
+    _gaq.push(['_setCustomVar', 1, 'responsive_view_mode', 'desktop', 3]);
+
+_gaq.push(['_trackPageview']);
+_gaq.push(['_trackPageLoadTime']);
+
+window._ga_init = function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+};
+if (window.addEventListener) {
+    window.addEventListener('load', _ga_init, false);
+} else {
+    window.attachEvent('onload', _ga_init);
+}
+</script>
+
+
+
+
+
+    <!-- sindar1c-docker-->
+
+  <script>_SPLITTEST=''</script>
+
+<script>var _check_hijack = function () {
+    var _sig = "1nQent28", _login = false, bid = get_cookie('bid');
+    if (location.protocol != "file:" && (
+            typeof(bid) != "string" && _login ||
+            typeof(bid) == "string" && bid.substring(0,8) != _sig)) {
+        location.href += (/\?/.test(location.href)?"&":"?") + (
+                "_r=" + Math.random().toString(16).substring(2));
+    }};
+if (typeof(Do) != 'undefined') Do(_check_hijack);
+else if (typeof(get_cookie) != 'undefined') _check_hijack();
+</script></body>
+
+</html>
+

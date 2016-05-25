@@ -1,0 +1,14 @@
+status: 200
+content-location: http://localhost/cgi-bin/pythoncgi2.py?name=%E7%8E%8B%E4%BA%94&age=21
+content-type: text/html; charset=utf-8;
+connection: Keep-Alive
+keep-alive: timeout=5, max=100
+server: Apache/2.2.25 (Win32)
+date: Wed, 12 Aug 2015 12:32:49 GMT
+
+
+&&&&&&&&&&&&&utf8******
+<html><body><pre>utf8</pre><body></html>
+客户端发送给服务器的name=王五
+客户端发送给服务器的age=21
+</body></html>

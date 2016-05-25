@@ -1,0 +1,17 @@
+status: 200
+vary: Accept-Encoding
+keep-alive: timeout=10
+server: nginx
+pragma: no-cache
+expires: Sun, 1 Jan 2006 01:00:00 GMT
+date: Thu, 06 Aug 2015 04:57:44 GMT
+content-type: application/json; charset=utf-8
+content-location: https://api.douban.com/v2/movie/25723906
+cache-control: must-revalidate, no-cache, private
+content-length: 1893
+connection: keep-alive
+-content-encoding: gzip
+x-dae-node: hador1
+-varied-accept-encoding: gzip, deflate
+
+{"rating":{"max":10,"average":0,"numRaters":5,"min":0},"author":[{"name":"市川力夫"},{"name":"青木勝紀"}],"alt_title":"","image":"http:\/\/img4.douban.com\/view\/movie_poster_cover\/ipst\/public\/p2130001988.jpg","title":"怪談新耳袋 殴り込み!<地獄編 前編>","mobile_link":"http:\/\/m.douban.com\/movie\/subject\/25723906\/","summary":"☆大人気! 怪談新耳袋殴り込み! 待望の新作が前後編で登場! 関東一帯の最恐心霊スポットに殴り込み! !\n人気シリーズ「怪談新耳袋殴り込み! 」最新作! ! 映画秘宝と完全タイアップで関東心霊スポットに侵入! ! 昨年放送した「怪談新耳袋殴り込み! 特番」が16万人の来場者を記録したニコニコ動画と、今年も完全タイアップ! !\n地獄編前後編心霊スポット(予定)\n·山梨県○○淵ー超有名心霊スポット! ! 歴史の闇に葬られた女たちの怨霊が襲う! !\n·東京都○○ロープウェイー深夜の廃墟に女の哄笑が響き渡る! !\n·東京都○○渓谷ー都内最大の心霊スポットでバチあたりミッションに霊が報復! !\n·東京都○○病院ー廃病院に深夜駆け回る幼女の霊\n·静岡県○○神社ー「怪談新耳袋」で不可解な現象が撮影されたスポットに深夜に侵入! !","attrs":{"language":["日语"],"title":["怪談新耳袋 殴り込み!<地獄編 前編>"],"country":["日本"],"director":["市川力夫","青木勝紀"],"cast":["ギンティ小林","田野辺尚人","市川力夫","後藤剛","青木勝紀"],"movie_duration":["100分钟"],"year":["2013"],"movie_type":["惊悚","恐怖"]},"alt":"http:\/\/movie.douban.com\/movie\/25723906","id":"http:\/\/api.douban.com\/movie\/25723906","tags":[{"count":1,"name":"恐怖"},{"count":1,"name":"想看"},{"count":1,"name":"日影"},{"count":1,"name":"纪录片"}]}
